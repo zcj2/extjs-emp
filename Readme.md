@@ -1,4 +1,5 @@
 # MyApp
+使用extjs创建的一个简单的员工列表页面。
 
 This folder is primarily a container for the top-level pieces of the application.
 While you can remove some files and folders that this application does not use,
